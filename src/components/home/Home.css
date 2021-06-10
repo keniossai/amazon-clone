@@ -17,5 +17,5 @@
 	width: 100%;
 	z-index: -1;
 	margin-bottom: -150;
-	mask-image: linear-gradient(to bottom, rgb(0, 0, 0), rgba(0, 0, 0, 0.055));
+	mask-image: linear-gradient(to bottom, rgb(0, 0, 0, 1), rgba(0, 0, 0, 0));
 }
